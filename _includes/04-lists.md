@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. crafting
+2. coding
+   * coding in C++
+   * learning to code
